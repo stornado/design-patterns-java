@@ -2,6 +2,7 @@ package com.zxytech.designpatterns.gof.structuralpatterns.compositepattern;
 
 /**
  * Created by ryan on 2016/12/18.
+ * 使用 Employee 类来创建和打印员工的层次结构。
  */
 public class CompositePatternDemo {
     public static void main(String[] args) {

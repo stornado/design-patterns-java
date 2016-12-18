@@ -2,6 +2,7 @@ package com.zxytech.designpatterns.gof.structuralpatterns.decoratorpattern;
 
 /**
  * Created by ryan on 2016/12/18.
+ * 使用 RedShapeDecorator 来装饰 Shape 对象。
  */
 public class DecoratorPatternDemo {
     public static void main(String[] args){

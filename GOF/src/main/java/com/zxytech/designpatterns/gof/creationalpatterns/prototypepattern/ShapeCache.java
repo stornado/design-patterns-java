@@ -4,6 +4,7 @@ import java.util.Hashtable;
 
 /**
  * Created by ryan on 2016/12/17.
+ * 创建一个类，从数据库获取实体类，并把它们存储在一个 Hashtable 中。
  */
 public class ShapeCache {
     private static Hashtable<String, Shape> shapeMap = new Hashtable<String, Shape>();

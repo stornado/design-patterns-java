@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Created by ryan on 2016/12/18.
+ * 使用不同的标准（Criteria）和它们的结合来过滤 Person 对象的列表。
  */
 public class CriteriaPatternDemo {
     public static void main(String[] args) {

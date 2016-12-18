@@ -2,6 +2,7 @@ package com.zxytech.designpatterns.gof.structuralpatterns.flyweightpattern;
 
 /**
  * Created by ryan on 2016/12/18.
+ * 使用该工厂，通过传递颜色信息来获取实体类的对象。
  */
 public class FlyweightPatternDemo {
     private static final String colors[] = {"Red", "Green", "Blue", "White", "Black"};

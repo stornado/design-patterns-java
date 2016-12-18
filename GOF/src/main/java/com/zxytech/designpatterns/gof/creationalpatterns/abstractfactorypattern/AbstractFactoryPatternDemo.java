@@ -2,6 +2,7 @@ package com.zxytech.designpatterns.gof.creationalpatterns.abstractfactorypattern
 
 /**
  * Created by ryan on 2016/12/17.
+ * 使用 FactoryProducer 来获取 AbstractFactory，通过传递类型信息来获取实体类的对象。
  */
 public class AbstractFactoryPatternDemo {
     public static void main(String[] args) {

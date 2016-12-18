@@ -2,6 +2,7 @@ package com.zxytech.designpatterns.gof.behavioralpatterns.interpreterpattern;
 
 /**
  * Created by ryan on 2016/12/18.
+ * InterpreterPatternDemo 使用 Expression 类来创建规则，并解析它们。
  */
 public class InterpreterPatternDemo {
     // 规则：Robert和John是男性

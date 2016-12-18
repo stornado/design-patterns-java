@@ -2,8 +2,9 @@ package com.zxytech.designpatterns.gof.creationalpatterns.abstractfactorypattern
 
 /**
  * Created by ryan on 2016/12/17.
+ * 扩展了 AbstractFactory 的工厂类，基于给定的信息生成实体类的对象
  */
-public class ShaeFactory extends AbstractFactory {
+public class ShapeFactory extends AbstractFactory {
 
     @Override
     public Shape getShape(String shapeType) {

@@ -2,6 +2,7 @@ package com.zxytech.designpatterns.gof.creationalpatterns.builderpattern;
 
 /**
  * Created by ryan on 2016/12/17.
+ * 创建一个 MealBuilder 类，实际的 builder 类负责创建 Meal 对象。
  */
 public class MealBuilder {
 

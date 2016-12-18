@@ -2,6 +2,7 @@ package com.zxytech.designpatterns.gof.behavioralpatterns.iteratorpattern;
 
 /**
  * Created by ryan on 2016/12/18.
+ * 使用 NameRepository 来获取迭代器，并打印名字。
  */
 public class IteratorPatternDemo {
     public static void main(String[] args) {

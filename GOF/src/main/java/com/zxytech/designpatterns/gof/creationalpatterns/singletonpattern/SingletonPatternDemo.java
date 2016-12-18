@@ -2,6 +2,7 @@ package com.zxytech.designpatterns.gof.creationalpatterns.singletonpattern;
 
 /**
  * Created by ryan on 2016/12/17.
+ * 从 singleton 类获取唯一的对象。
  */
 public class SingletonPatternDemo {
     public static void main(String[] args) {

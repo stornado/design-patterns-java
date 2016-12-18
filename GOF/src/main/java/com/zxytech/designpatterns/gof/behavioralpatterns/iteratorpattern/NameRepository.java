@@ -2,6 +2,7 @@ package com.zxytech.designpatterns.gof.behavioralpatterns.iteratorpattern;
 
 /**
  * Created by ryan on 2016/12/18.
+ * 创建实现了 Container 接口的实体类。该类有实现了 Iterator 接口的内部类 NameIterator。
  */
 public class NameRepository implements Container {
     public String names[] = {"Robert", "John", "Julie", "Lora"};
